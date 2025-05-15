@@ -1,0 +1,12 @@
+READ ME
+
+Hello Professor Hutchins,
+
+Please open the Jupyter Notebook Files in the following order:
+1. Data-Science-Project-aayush
+2. Some stats _Nico Pazos
+3. Sentiment Analysis Code_Sharanya_
+    - Some minor updates were added to Sentiment Analysis Code_Sharanya_MC. Since they are minor, they are committed to a separate file to not break any code. This is located in Sentiment_Analysis_Sharanya folder. 
+
+The relevant ouput should be visible within the notebook.
+However, if you run the file, the data directories will need to be updated.
