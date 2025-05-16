@@ -2,6 +2,8 @@ READ ME
 
 Hello Professor Hutchins,
 
+The write-up is titled, Final Project - Write Up.
+
 Please open the Jupyter Notebook Files in the following order:
 1. Data-Science-Project-aayush
 2. Some stats _Nico Pazos
