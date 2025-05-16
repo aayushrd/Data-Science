@@ -1,3 +1,0 @@
-This is the data files used in the analysis. 
-File listing contains the detailed description of the listings created by the host to rent their Airbnb
-File review contains the guests reviews of the Airbnb
